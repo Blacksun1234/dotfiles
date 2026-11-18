@@ -150,7 +150,7 @@ add-zsh-hook precmd  _cmd_end
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ga="git add"
-alias gaa="git add -all"
+alias gaa="git add --all"
 alias gc="git checkout"
 alias gcb="git checkout -b"
 alias gcmsg="git commit -m"
