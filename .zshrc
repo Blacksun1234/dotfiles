@@ -158,3 +158,8 @@ alias gd="git diff"
 alias gP="git pull"
 alias gp="git push"
 alias gst="git status"
+alias gl="git log"
+
+
+#sudo dnf install zoxide fzf
+eval "$(zoxide init zsh --cmd cd)" #allows cd command instead of z command (z toto replaced by cd toto)
